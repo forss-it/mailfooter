@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/mailfooter_new.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="641">
-              <caret line="30" column="209" selection-start-line="30" selection-start-column="209" selection-end-line="30" selection-end-column="209" />
+              <caret line="30" column="201" selection-start-line="30" selection-start-column="201" selection-end-line="30" selection-end-column="201" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
@@ -119,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579524987053</updated>
-      <workItem from="1579524988198" duration="1185000" />
+      <workItem from="1579524988198" duration="1310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1185000" />
+    <option name="totallyTimeSpent" value="1310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
@@ -159,7 +159,7 @@
     <entry file="file://$PROJECT_DIR$/mailfooter_new.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
-          <caret line="30" column="209" selection-start-line="30" selection-start-column="209" selection-end-line="30" selection-end-column="209" />
+          <caret line="30" column="201" selection-start-line="30" selection-start-column="201" selection-end-line="30" selection-end-column="201" />
           <folding>
             <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
